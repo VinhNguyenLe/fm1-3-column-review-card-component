@@ -1,1 +1,1 @@
-not update responsive ^^' sorry
+not update responsive yet ^^' sorry
