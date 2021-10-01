@@ -1,0 +1,51 @@
+:root{
+    --background-color: #f2f2f2;
+    --lexendDeca-font: 'Lexend Deca', sans-serif;
+    --bigShoulder-font: 'Big Shoulders Display', cursive;
+    --bright-orange-color: hsl(31, 77%, 52%);
+    --dark-cyan-color: hsl(184, 100%, 22%);
+    --very-dark-cyan-color: hsl(179, 100%, 13%);
+    --transparent-white-color: hsla(0, 0%, 100%, 0.75);/*paragraphs*/
+    --verylight-gray-color: hsl(0, 0%, 95%);/*background, headings, buttons*/
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    background-color: var(--verylight-gray-color);
+}
+
+.orange-color{
+    background-color:hsl(31, 77%, 52%);
+}
+
+.dark-cyan-color{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.verydark-cyan-color{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.left-radius{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.right-radius{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/* .lexendDeca-font{
+    font-family: 'Lexend Deca', sans-serif;;
+}
+
+.bigShoulder-font{
+    font-family: 'Big Shoulders Display', cursive;
+} */
